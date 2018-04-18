@@ -1,6 +1,6 @@
 Devon Guerrero's Resume
 =======================
-View the latest [pdf rendering here](https://github.com/papagunit/Devon-Guerrero-resume/blob/master/Devon-Guerrero-resume-marketing.pdf).
+View the latest [pdf rendering here](https://github.com/papagunit/Devon-Guerrero-resume/blob/master/Devon-Guerrero.pdf).
 
 Let me know if you have any suggestions.
 
